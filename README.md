@@ -9,7 +9,7 @@ This is a simple GUI application that generates a phylogenetic tree from protein
 ## Instructions
 - Ensure all of the files in the 'assets' and 'tools' folders are in the same directory as pipeline.py.
 - Run pipeline.py.
-- Select all of the FASTA files that you wish to be included in the phylogenetic tree. All FASTA files must be in a single directory. In the 'example fasta files' folder are some example FASTA files for the mitochondrial protein cytochrome B. 
+- Select all of the FASTA files that you wish to be included in the phylogenetic tree (minimum of 3). All FASTA files must be in a single directory. In the 'example fasta files' folder are some example FASTA files for the mitochondrial protein cytochrome B. 
 
 ## Executable
 - I've uploaded an .exe of the app to the releases section for convenience. 
