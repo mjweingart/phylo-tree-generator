@@ -1,5 +1,5 @@
 # Phylogenetic Tree Generator
-This is a simple GUI application that generates a phylogenetic tree from protein sequence FASTA files using Clustal Omega for alignment and FastTree for tree construction, with midpoint rooting implemented using the `ete3` library. I'm a mostly self-taught programmer, and this represents my first attempt at building something bioinformatics related.
+This is a simple GUI application that generates a phylogenetic tree from protein sequence FASTA files using Clustal Omega for alignment and FastTree for tree construction, with midpoint rooting implemented using the `ete3` library.
 
 ## Prerequisites
 - Python 3.x
